@@ -27,6 +27,8 @@ to experiment before committing to code.
 
 
 {: #setup}
+###### Setup
+
 In your entry file (for exmple `/index.html`) initialize your application as follows
 - create an element with the name of your choise. in this example we use `mynamespace-myawesomecomponent`
 - initialize js, in this case we use inline code, but a separate file would work just fine as wel (NOTE: it has to be an module to allow `import`s)
@@ -51,6 +53,8 @@ In your entry file (for exmple `/index.html`) initialize your application as fol
 ```
 
 {: #first-component}
+###### Your first component
+
 Next up is to create the code behind your component
 - Create a file `/js/mynamespace/myawesomecomponent.js`.
 - Import `fyn.js` and 'types.js' files.
