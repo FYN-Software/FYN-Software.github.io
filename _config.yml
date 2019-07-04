@@ -10,7 +10,7 @@ branding:
   icon:
     name: icon_documents_alt
   highlight: FYN
-  bold: Suite
+  bold: Software
 markdown: kramdown
 kramdown:
   auto_ids: true
