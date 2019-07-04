@@ -9,8 +9,8 @@ description: &site_description
 branding:
   icon:
     name: icon_documents_alt
-  highlight: Pretty
-  bold: Docs
+  bold: FYN
+  highlight: Suite
 markdown: kramdown
 kramdown:
   auto_ids: true
