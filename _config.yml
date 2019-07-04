@@ -32,38 +32,6 @@ owner:
     author: "[FYN Software](https://fyn.nl)"
 
 
-#
-# Social
-#
-open_graph:
-  title: *site_title
-  site_name: *site_title
-  description: *site_description
-  locale: en_US
-  image: /assets/images/thumb.png
-twitter_cards:
-  title: *site_title
-  description: *site_description
-  creator: *site_owner_twitter
-  card: summary_large_image
-  image: /assets/images/thumb.png
-share:
-  facebook:
-    class: fb-like
-    action: like
-    layout: button_count
-    show-faces: false
-    share: false
-  twitter:
-    via: *site_owner_twitter
-    text: &site_description
-    title: Tweet
-  github:
-    repo: FYN-Software/Component
-    position: right
-    color: red
-
-
 # Google Analytics
 google_analytics: UA-143310631-1
 google_tagmanager: GTM-MNP2CM8
