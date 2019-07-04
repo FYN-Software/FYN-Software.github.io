@@ -15,20 +15,15 @@ sections:
 [PrismJS](http://prismjs.com/) is used as the syntax highlighter here.
 You can [build your own version](http://prismjs.com/download.html) via their website should you need to.
 
+<div class="callout-block callout-success"><div class="icon-holder">
+*&nbsp;*{: .fa .fa-thumbs-up}	
+</div><div class="content">
+{: .callout-title}
+Useful Tip:
 
-<div class="callout-block callout-success">
-    <div class="icon-holder">
-        *&nbsp;*{: .fa .fa-thumbs-up}	
-    </div>
-    
-    <div class="content">
-        {: .callout-title}
-        Useful Tip:
-
-        You can use this online [Component builder](/builder)
-        to experiment before committing to code.
-    </div>
-</div>
+You can use this online [Component builder](/builder)
+to experiment before committing to code.
+</div></div>
 
 
 {: #Setup}
