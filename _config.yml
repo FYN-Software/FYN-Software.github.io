@@ -59,7 +59,7 @@ share:
     text: &site_description
     title: Tweet
   github:
-    repo: LeakyAbstractions/pretty-docs
+    repo: FYN-Software/Component
     position: right
     color: red
 
