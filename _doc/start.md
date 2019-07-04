@@ -1,7 +1,7 @@
 ---
 title: Quick Start
-excerpt: Demo example, consectetuer adipiscing elit
-date: 2016-01-25
+excerpt: My first awesome app!
+date: 2019-07-04
 icon:
   type: fa
   name: fa-paper-plane
